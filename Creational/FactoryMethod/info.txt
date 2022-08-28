@@ -1,0 +1,3 @@
+Factory Method:
+* Define an interface for creating an instance, but let the subclasses decide which class to instantiate.
+* The same idea of Virtual Constructor/Method in c++
