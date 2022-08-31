@@ -1,0 +1,15 @@
+Purpose:
+We create one standard object for each class,
+and if we want a new instance of a class, just call method clone from any object of this class;
+clone method --> has the standard specs of any new object of this class.
+
+--> To avoid the cost (time ) of creating objects with the standard way ( new keyword ).
+
+When to use:
+if the creating object of a class consumes much time ( has a lot of data ),
+ so clone an existing object is better way.
+
+
+ Here’s how it works: you create a set of objects, configured in various ways.
+  When you need an object like the one you’ve configured,
+  you just clone a prototype instead of constructing a new object from scratch.
