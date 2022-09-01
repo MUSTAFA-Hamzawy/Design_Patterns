@@ -1,0 +1,8 @@
+Intention : to produce families of related objects without specifying concrete classes.
+
+Purpose:
+To create related/dependent objects that can be classified to the same family.
+Usually all created classes have the same interface.
+
+Example:
+https://refactoring.guru/design-patterns/abstract-factory
