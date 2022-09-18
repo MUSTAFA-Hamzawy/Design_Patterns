@@ -1,0 +1,3 @@
+Purpose:
+    This pattern lets you attach new behaviors/components to an object at runtime/dynamically
+    by placing that object inside a wrapper/decorator which contains these behaviors/components.
