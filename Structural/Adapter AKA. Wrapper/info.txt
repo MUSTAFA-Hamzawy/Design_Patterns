@@ -1,0 +1,12 @@
+Purpose:
+    - It acts as a wrapper between two objects.
+    Some classes that couldn't normally work together because of incompatible interfaces,
+    this design pattern allows them to work together by providing its interface to clients
+    while using the original interface.
+    - Converts the interface of a class into another interface clients expect
+
+Adapter : This is a special object that converts the interface of one object so that another object can understand it.
+
+
+Important Example:
+    https://refactoring.guru/design-patterns/adapter#problem
